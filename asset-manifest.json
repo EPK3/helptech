@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/helptech/static/css/main.4acc01ff.css",
+    "main.js": "/helptech/static/js/main.9403f979.js",
+    "static/js/787.b5bfe5a6.chunk.js": "/helptech/static/js/787.b5bfe5a6.chunk.js",
+    "static/media/home-cover.webp": "/helptech/static/media/home-cover.b72b97417e16571dad11.webp",
+    "static/media/help-computer.webp": "/helptech/static/media/help-computer.72b6825697c8f63768ce.webp",
+    "static/media/repair.webp": "/helptech/static/media/repair.37e28b02439730cfca35.webp",
+    "static/media/something_wrong.webp": "/helptech/static/media/something_wrong.48f4a4733205023e637b.webp",
+    "static/media/service.webp": "/helptech/static/media/service.194dad4f89e404e24ad4.webp",
+    "static/media/hand_phone.webp": "/helptech/static/media/hand_phone.d7c4d773cfebeee4bdd9.webp",
+    "static/media/computer-logo.webp": "/helptech/static/media/computer-logo.4afee01a39778dcbbb69.webp",
+    "static/media/tablet.webp": "/helptech/static/media/tablet.582895e8ede2c9701dae.webp",
+    "static/media/logo-main.webp": "/helptech/static/media/logo-main.c51d94e35a11b48bf056.webp",
+    "static/media/laptop.webp": "/helptech/static/media/laptop.5807d8c1da2f162d5afb.webp",
+    "index.html": "/helptech/index.html",
+    "main.4acc01ff.css.map": "/helptech/static/css/main.4acc01ff.css.map",
+    "main.9403f979.js.map": "/helptech/static/js/main.9403f979.js.map",
+    "787.b5bfe5a6.chunk.js.map": "/helptech/static/js/787.b5bfe5a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4acc01ff.css",
+    "static/js/main.9403f979.js"
+  ]
+}
