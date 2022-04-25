@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/helptech/static/css/main.4acc01ff.css",
+    "main.css": "/helptech/static/css/main.dcd48be9.css",
     "main.js": "/helptech/static/js/main.9403f979.js",
     "static/js/787.b5bfe5a6.chunk.js": "/helptech/static/js/787.b5bfe5a6.chunk.js",
     "static/media/home-cover.webp": "/helptech/static/media/home-cover.b72b97417e16571dad11.webp",
@@ -14,12 +14,12 @@
     "static/media/logo-main.webp": "/helptech/static/media/logo-main.c51d94e35a11b48bf056.webp",
     "static/media/laptop.webp": "/helptech/static/media/laptop.5807d8c1da2f162d5afb.webp",
     "index.html": "/helptech/index.html",
-    "main.4acc01ff.css.map": "/helptech/static/css/main.4acc01ff.css.map",
+    "main.dcd48be9.css.map": "/helptech/static/css/main.dcd48be9.css.map",
     "main.9403f979.js.map": "/helptech/static/js/main.9403f979.js.map",
     "787.b5bfe5a6.chunk.js.map": "/helptech/static/js/787.b5bfe5a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4acc01ff.css",
+    "static/css/main.dcd48be9.css",
     "static/js/main.9403f979.js"
   ]
 }
